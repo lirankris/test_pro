@@ -1,6 +1,5 @@
 import functools
 
-
 class IDIterator:
     """
     A class used to generate a valid id number.
